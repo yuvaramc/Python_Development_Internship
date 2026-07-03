@@ -60,5 +60,3 @@ A program that checks whether a given string is a palindrome (reads the same for
 - Improved logical thinking and problem-solving skills  
 - Gained experience in building interactive console applications  
 - Understood real-world application of basic programming concepts  
-
----
