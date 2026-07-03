@@ -62,5 +62,3 @@ A program that checks whether a given string is a palindrome (reads the same for
 - Understood real-world application of basic programming concepts  
 
 ---
-
-## 📁 Repository Structure
