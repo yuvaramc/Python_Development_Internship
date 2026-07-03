@@ -46,5 +46,3 @@ An interactive game where the user attempts to guess a randomly generated number
 - Gained hands-on experience in building beginner-level applications  
 
 ---
-
-## 📁 Repository Structure
