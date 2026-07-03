@@ -26,9 +26,6 @@ A basic calculator that performs arithmetic operations such as addition, subtrac
 ### 🔹 Task 5: Palindrome Checker
 A program that checks whether a given string reads the same forward and backward.
 
-### 🔹 Task 6: Number Guessing Game
-An interactive game where the user attempts to guess a randomly generated number with hints like "too high" or "too low".
-
 ---
 
 ## 💻 Technologies Used
