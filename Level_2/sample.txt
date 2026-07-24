@@ -1,0 +1,3 @@
+python is easy to learn
+python is powerful
+learning python is fun
